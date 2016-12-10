@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">A7_ListView</string>
+    <string-array name="presNames">
+        <item>Barack Obama</item>
+        <item>George W. Bush</item>
+        <item>Bill Clinton</item>
+    </string-array>
+</resources>

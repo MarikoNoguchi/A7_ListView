@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="obama" type="id"/>
+    <item name="bush" type="id"/>
+    <item name="clinton" type="id"/>
+</resources>
